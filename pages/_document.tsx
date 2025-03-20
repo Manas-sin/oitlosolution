@@ -7,8 +7,10 @@ export default function Document() {
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="theme-style-mode" content="1" />
-        <title>Business Consulting || Doob Business and Consulting Bootstrap5 Template</title>
-        <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.png" />
+        <title>
+        Oitlo Solution
+      </title>   
+           <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.png" sizes="32x32 64x64 128x128"  />
         <link rel="stylesheet" href="/css/bootstrap.min.css" />
         <link rel="stylesheet" href="/css/animation.css" />
         <link rel="stylesheet" href="/css/feature.css" />

@@ -8974,12 +8974,12 @@ xclip
 }
 .header-default .logo a {
   display: flex;
-  height: 80px;
+  height: 010px;
   line-height: 80px;
   align-items: center;
 }
 .header-default .logo a img {
-  max-height: 45px;
+  max-height: 90px;
 }
 .header-default .header-right {
   display: flex;

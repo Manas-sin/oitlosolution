@@ -22,7 +22,7 @@ const Slider = () => {
               </p>
               <div className="button-group">
                 <a className="btn-default btn-medium round btn-icon" href="#">
-                  Purchase Now <i className="icon feather-arrow-right" />
+                  Start Now<i className="icon feather-arrow-right" />
                 </a>
                 <a
                   className="btn-default btn-medium btn-border round btn-icon"

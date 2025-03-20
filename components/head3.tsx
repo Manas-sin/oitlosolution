@@ -8,20 +8,22 @@ const Headthree = () => {
     <div className="container position-relative">
       <div className="row align-items-center row--0">
         <div className="col-lg-3 col-md-6 col-4">
-          <div className="logo">
-            <a href="index.html">
-              <img
-                className="logo-light"
-                src="images/logo.png"
-                alt="Corporate Logo"
-              />
-              <img
-                className="logo-dark"
-                src="images/logo-dark.png"
-                alt="Corporate Logo"
-              />
-            </a>
-          </div>
+        <div className="logo">
+  <a href="index.html">
+    <img
+      className="logo-light"
+      src="images/logo.png"
+      alt="Corporate Logo"
+      style={{ height: '20rem' }} // Adjust the width and height as needed
+    />
+    <img
+      className="logo-dark"
+      src="images/logo-dark.png"
+      alt="Corporate Logo"
+      style={{height: '10rem' }} // Adjust the width and height as needed
+    />
+  </a>
+</div>
         </div>
         <div className="col-lg-9 col-md-6 col-8 position-static">
           <div className="header-right">
