@@ -35,31 +35,8 @@ const Headthree = () => {
                       <div className="rainbow-megamenu with-mega-item-2">
                         <div className="wrapper">
                           <div className="row row--0">
-                            <div className="col-lg-6 single-mega-item">
-                              <ul className="mega-menu-item">
-                                <li>
-                                  <Link href="#">
-                                    Sass Landing{" "}
-                                    <span className="rainbow-badge-card">New</span>
-                                  </Link>
-                                </li>
-                                <li>
-                                  <Link href="#">
-                                    Application{" "}
-                                    <span className="rainbow-badge-card">New</span>
-                                  </Link>
-                                </li>
-                                {/* Other menu items */}
-                              </ul>
-                            </div>
-                            <div className="col-lg-6 single-mega-item">
-                              <ul className="mega-menu-item">
-                                <li>
-                                  <Link href="/index-travel-agency">Travel Agency</Link>
-                                </li>
-                                {/* Other menu items */}
-                              </ul>
-                            </div>
+                            
+                          
                           </div>
                         </div>
                       </div>

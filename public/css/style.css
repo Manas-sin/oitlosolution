@@ -8979,7 +8979,8 @@ xclip
   align-items: center;
 }
 .header-default .logo a img {
-  max-height: 110px;
+  padding-top: 4rem;
+  max-height: 200px;
 }
 .header-default .header-right {
   display: flex;

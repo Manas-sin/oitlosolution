@@ -25,7 +25,6 @@ const Index = () => {
           <Headthree />
           <Slider />
           <Home />
-
           <Sectionbottom />
           <Footer />
           <Right />

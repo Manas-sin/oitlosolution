@@ -14,7 +14,7 @@ const Slider = () => {
             <div className="inner text-center">
               <span className="subtitle">DIGITAL CONSULTING AGENCY</span>
               <h1 className="title display-one">
-                Unique Business <span>Consulting</span>.
+              OITLO <span>SOLUTIONS</span>
               </h1>
               <p className="description">
                 We help our clients succeed by creating brand identities, digital
