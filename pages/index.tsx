@@ -2,10 +2,10 @@ import React, { useEffect, useState } from "react";
 import Slider from "@/components/Slider";
 import Headtwo from "@/components/head2";
 import Headthree from "@/components/head3";
-import Mobile from "@/components/mobile";
-import ServiceArea from "@/components/service";
-import Portfolio from "@/components/portfolio";
-import Timeline from "@/components/timeline";
+
+
+
+
 import Sectionbottom from "@/components/sectionbottom";
 import Footer from "@/components/Footer";
 import Right from "@/components/Right";
