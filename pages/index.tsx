@@ -3,13 +3,11 @@ import Slider from "@/components/Slider";
 import Headtwo from "@/components/head2";
 import Headthree from "@/components/head3";
 
-
-
-
 import Sectionbottom from "@/components/sectionbottom";
 import Footer from "@/components/Footer";
 import Right from "@/components/Right";
 import Sectionbottomtwo from "@/components/sectionbottomtwo";
+import Home from "@/components/Home";
 
 const Index = () => {
   const [mounted, setMounted] = useState(false);
@@ -22,11 +20,12 @@ const Index = () => {
     mounted && (
       <>
         <main className="page-wrapper">
-         {/* one */}
+          {/* one */}
           <Headtwo />
           <Headthree />
           <Slider />
-          <Sectionbottomtwo />
+          <Home />
+
           <Sectionbottom />
           <Footer />
           <Right />
