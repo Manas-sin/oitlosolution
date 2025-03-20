@@ -25,9 +25,7 @@ const Index = () => {
          {/* one */}
           <Headtwo />
           <Headthree />
-          {/* slider */}
           <Slider />
-          {/* bottome */}
           <Sectionbottomtwo />
           <Sectionbottom />
           <Footer />

@@ -8979,7 +8979,7 @@ xclip
   align-items: center;
 }
 .header-default .logo a img {
-  max-height: 90px;
+  max-height: 110px;
 }
 .header-default .header-right {
   display: flex;
